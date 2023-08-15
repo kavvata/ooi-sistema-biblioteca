@@ -1,0 +1,5 @@
+0;Livro 1;IFPR;2020;0;false
+1;Livro 2;IFPR;2021;0;true
+2;Livro 3;IFPR;2020;1;false
+3;Livro 4;IFPR;2022;1;false
+4;Livro 5;IFPR;2023;2;false
